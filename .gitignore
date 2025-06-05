@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+extrator_telefone_empresas/empresas_com_telefone.xlsx
+extrator_telefone_empresas/.env
+extrator_telefone_empresas/empresas.xlsx
